@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MultitrackerActivity" >
+
+	<com.sample.multitrack106.FixedAspectRatioFrameLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:id="@+id/framelayout"
+	    >
+	    	<fragment
+	    android:id="@+id/overlapFragment"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    class="com.sample.multitrack106.FaceOverlapFragment" >
+    </fragment> 	
+	    	    
+	</com.sample.multitrack106.FixedAspectRatioFrameLayout>
+	
+    <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:layout_below="@+id/framelayout">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/fpstext"
+            android:layout_weight="1"
+            android:text="sd"
+            />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/actionText"
+            android:layout_weight="1"
+            android:text="FaceAction" />
+    </LinearLayout>
+	
+</RelativeLayout>

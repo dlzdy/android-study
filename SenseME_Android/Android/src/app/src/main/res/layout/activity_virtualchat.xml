@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="horizontal"
+    tools:context=".Sample.VirtualChatActivity" >
+
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+
+		<com.citv.facelib.FixedAspectRatioFrameLayout
+			android:layout_width="100dp"
+			android:layout_height="100dp"
+			android:id="@+id/framelayout">
+
+			<fragment
+				android:id="@+id/overlapFragment"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				class="com.citv.facelib.FaceOverlapFragment" >
+			</fragment>
+
+		</com.citv.facelib.FixedAspectRatioFrameLayout>
+
+		<Button
+			android:id="@+id/openmouth"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:text="张嘴校验"
+			android:textSize="12sp"/>
+
+		<Button
+			android:id="@+id/closemouth"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:text="闭嘴校验"
+			android:textSize="12sp"/>
+
+		<Button
+			android:id="@+id/windowChange"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:text="交换窗口"
+			android:textSize="12sp"/>
+
+		<Button
+			android:id="@+id/my_color"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:text="选择自己窗口颜色"
+			android:textSize="12sp"/>
+
+		<Button
+			android:id="@+id/friend_color"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:text="选择对方窗口颜色"
+			android:textSize="12sp"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:id="@+id/u3d_layout"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="#a6a9af"
+		android:orientation="vertical" >
+	</LinearLayout>
+
+</LinearLayout>
