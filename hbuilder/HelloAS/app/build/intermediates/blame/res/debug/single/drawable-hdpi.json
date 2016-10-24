@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\push.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-hdpi\\push.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stream_running.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-hdpi\\stream_running.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\snow_white.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-hdpi\\snow_white.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\snow_black.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-hdpi\\snow_black.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stream.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-hdpi\\stream.png"
+    }
+]
