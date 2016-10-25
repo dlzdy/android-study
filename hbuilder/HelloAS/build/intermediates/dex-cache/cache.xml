@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\payment-alipay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42583108645cdb7b84455c9102a795fc5c83872e">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-alipay_8b863574ffe15316ed804875752f11d3c3d35750\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\share-qq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7dc52d4d98c53cf1c7f7cea3929c126b61a8ec">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-qq_fdfbbfd640d538f61b49cdb6ba83f9a0dbae0314\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\json_simple-1.1_9c92ad35602c9f40d51fdf00dce4c6f36a367a35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4a346ae4385f0bb5e53ab72f8c9b6abf750b566">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4cacf633d82d31fbd35aeec4c95c7a1c88fb26a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\aps-igexin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5db0274d27c657d60da39878e32da675bee2bc0e">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-igexin_3392a7d6dfe20dcf7ac0a33660869705846ef06a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\geolocation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7961d6dd7e67e46187b1295f4cc70f68d6e84b72">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation_59cea22849f80f0b55827af21f494eb5267e2f56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.0.1_b47aa359946bd9d3e9d98656bca55f137c635b5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\nativeObj.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="003c55995af8bc42fd763a00add5883324aaa7c4">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeObj_62317422229cf9c3d7f9defcaf883da4ce2851ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\weibosdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="860f7bf08016ffb93f564cdebab6d70586ad46d6">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdk_16e93a7b70b113b2f755db133c36661dcb30c252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a11eb2b2631d3538589d79e5d85e10d4dc216480">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_6b02c9c0be1414e7849544bff51765e929fc77c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\statistics-umeng.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8043ca971abf6d9da420297e5ef7bdeeeabc2c51">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\statistics-umeng_9051753ef9ad3767be3614a3a30a37b499213d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\geolocation-system.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8486c47d4158f7cc93942f7410c33ede8f74c047">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-system_5834e08c27e247b407f263d1c11e015c9ffa0af1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\share-tencent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07a72a00a38e50051963f7ea30caf0cb7d741b47">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-tencent_9c62712e022b772dcc157d0a1efc5a04e594c303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\ui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b081831d9ba55ad2726d1e0d63dc7da84a7b829">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\ui_47f67e15cea0a056f6e31e21382db63b5fe6c871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\share.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9700a303a8c75002a3f9b21b849ce59e6e8d947">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share_6db048236b10ecdb6606ee9fc3155a82e4cd7bcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\audio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25213cafe81f758562351ea676fbd83827dbad80">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\audio_0d3da8ead89f012b478d73bdab72bf18ff57824e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\navigatorui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caba21fcbe625efd887724164cabf045a910b6b7">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\navigatorui_16d42d0f961b80c698d93e24efead3beb66d3c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\tx_weibo_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33921321a220f3927929217aeed32befede21502">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_2990e7b64d1260c98acb72503a90b0f5bb45225b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\tx_weibo_sdk-httpclient-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk-httpclient-3.0.1_f7be6a64ac9922c61faed261b4d25a1cda25fd02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\oauth-qq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d59d44761d5736050e8420ad057d1eb09af18fe8">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-qq_9a5ed9d6946bf59ea82a44ab4549b9889983eac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\alipayutdid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipayutdid_d4ce7e190cd8806c082cef18e0c9d74791b84ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\open_sdk_r5043_lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f213f03dfe8868d0b24898234f6eefb67015a4a">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5043_lite_f4620d3554dc70f07500dd987b7d87c3fcae15c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\messaging.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32001add889e4b57ddeedd7fca0e0cb717ead80b">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\messaging_e59b4952d122957eea73b00cf4a39f3c439d986a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cc5fb6c6a98c9ba56e774cb20fa9b48bc6f75f3">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_06594dcc4b0bfe8b93c4826fb33af1913497d66c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\pdr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f183232b6f801150c3fb6e1068485e8a0370e0b2">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\pdr_03e9b09818b53a8645f44c0a8aaecaaaf378a16d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\oauth-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8fc3cf376baaa112776273e3e37a01a48b4d4f2">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-weixin_638c2d7cb49e04ea7acb1b19b9ceb3893098eafd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\tx_weibo_sdk_component.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="17d672bf657b4d848d1b33782496fc0dd972072c">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_component_bd19237d3c2313fb82ab714457814c6bf242864e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\sensor.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c6ab277532491f9d7cb0b6b34df17999d48e10">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\sensor_e3fdc3c56b5239b7de73e93c162a09b80f173781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\alipaysecsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysecsdk_266ccb1751f74635027096473b6b0ab82131c64a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\speech.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6ebe50aa0eef5970e1fc7985974ffd35cbecf52">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_e3bdb01be724067779e17d97525bc7019a5ac5b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\file.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8116779a891ff1574a3b19012bd9e3ce9b6fda1b">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\file_9ad29e378d1a02dd299f765fd5feefdea8bcb4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\downloader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc9e58b2d7e1aab6d83f4326b509d5bbfa0b4021">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\downloader_92da845a63fedf40917cd148387112a6779a8c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\weibosdkcore_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="265f83894203f2bd137185bc3cefaca45b186ca0">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdkcore_release_d602deb13caa0502f653ab15fc5c1e9a3ec24937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\alipaysdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b40481f01537a329936ce54ee2fe15ef2537f010">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysdk_69efa4bcff0b7323f20c49885c42bd951e0b424f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_aa5579de75deee78ec1fe08d004c7f87fd053260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\share-sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32556e60a8715217fc7d2c7942fc51736558ff92">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-sina_419ebffad9be6f8999ce4e44761d2762bda8feb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\GetuiSDK2.7.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de9bd9eedb38574a7741b18e34fc9e1f1ca0bc7b">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiSDK2.7.0.0_b2fdb2915ec90224e182d8ca4899b3b34cb2154b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.0_11d4e6342fda74decb31b65f64589657316f25d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\oauth-sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f0bc7c30f32cccb22183fbcbf6232e7d1d9e529">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-sina_e9d934e949445ace0f0b23bb7b4d30045b61b04c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\uploader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a52643682c717d91785ec0c79dda0b821b88607">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\uploader_e17b05294dbede51930aae4ed19f9052adf6ac79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787496b3db90e9fd020470bc327aaedff9f4d5ad">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b78777883115f8169a9cd7b77e1172d6516b59fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\invocation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10814898667722fc3f8c0d7ff26677e39f32c2a4">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\invocation_5f9c160f6318cafd121008356d5105589e052f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\payment-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="925eef7c2a46f9480cf9d84c01457cfe9c022489">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-weixin_ac6da83be2ddcb04842c8b5a1c31cd8e56889947\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\xhr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7186336cdcd378c9dd8157d80ed23c84edcc343d">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\xhr_900510504b439a2430087b573cee7fa026c87572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\tx_wx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_wx_883617721ad975f19a25f2a2179557625620053d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\barcode.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="873ed7f86a9d920a14b0eccade601821eb3c16c4">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\barcode_9eb061797b025ebdf929b7df30abfa820c866c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\contacts.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37ab7966a1ec1b7bbebf3f5b0792dddd9da5a0a9">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\contacts_1b2b406b33672d9671b5441644fbb6967da134c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\nativeui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e3cb3d56a00db6127320441eab3a4e864349e61">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nativeui_9eb1b0e21d0c8b582cd976c0f191db1bfc62de29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\device.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4baf611e43bf8965690977f70baa5f7429784e58">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\device_5203da8b7d1fb6e3424ac02051f0cde0e4c92ea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\map-baidu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8ef80428d3a7a30f06d9c18c2141fe24a912e8c">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\map-baidu_78b25398a53d3feb0d51f092d60c8b2f43562e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_be220b38eb335326b6406b05fa5b60644c539549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\aps.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="523d2c11bb2f079894d97b7ad838b178ef2df6dd">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps_17ba8dae92761f641fcdd3ac2740a40b35c8891b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\GetuiExt-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiExt-2.0.3_b4a5360d9954764eff3d524a9c0ce0235b659f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\gallery.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="496b3bb9778a5ff43613267aa608f7adcb912bbc">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\gallery_57de56fc29f902251d4885f260041d3ab6ef4573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\payment.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e07ff77fd7e9e455b3d4f3579b76ef920e4d0ab1">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment_ec3507a26d63ab9c600b9a4f55bbd0eac5d61c83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\speech_ifly.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9283645e02163ad739aef73d6525b4ebac1f6ff8">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_ifly_5fbe890b45871a216dd5d1bd3654c765bd7996ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\camera.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7168ac50f667c4a98fdc704e080c8ad6af264f77">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\camera_6a86507eceab536c011969dc6c72eb37222e4b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\nopermission.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="303f4ff57349d49b76d4c5c6f49572b6dff16d7a">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\nopermission_5b516a5ca6ff12d0c53d6f7d58ad2e877518deac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\geolocation-baidu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb199421f6dcc18a3bfcb859192b44ad467d17ce">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-baidu_a574abffd869f82f040d14d1ed61118b244c4fdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\oauth.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="196acd27ec611666481529b99fce9f40cc7237e1">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth_6a1a000e134af0704e8389e22263512d7efd0085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work_study\hbuilder\HelloAS\app\libs\share-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da17b60c73f5fa4f2ff7c354f52e71aa6e4f1b6e">
+        <dex dex="E:\work_study\hbuilder\HelloAS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-weixin_f8f352a58a105ad6baa40bba79d812c264b39d59\classes.dex" />
+    </item>
+
+</items>

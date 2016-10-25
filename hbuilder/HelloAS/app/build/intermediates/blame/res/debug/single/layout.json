@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dcloud_loadingview.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\dcloud_loadingview.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_market.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\activity_main_market.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_pick_gallery_item.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\image_pick_gallery_item.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_download_notification.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\app_download_notification.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snow_black_progress.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\snow_black_progress.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\streamapp_list_item.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\streamapp_list_item.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dcloud_dialog.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\dcloud_dialog.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\streamapp_list.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\streamapp_list.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\increment_popup_dialog.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\increment_popup_dialog.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_inc.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\notification_inc.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_pick_gallery.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\image_pick_gallery.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stream_running_progress.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\stream_running_progress.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\market_fragment_base.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\market_fragment_base.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_test_activity.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\main_test_activity.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snow_white_progress.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\snow_white_progress.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadingview.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\loadingview.xml"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dcloud_view_splash.xml",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\layout\\dcloud_view_splash.xml"
+    }
+]

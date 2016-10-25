@@ -1,0 +1,7 @@
+#Mon Oct 24 22:52:27 CST 2016
+base.0=E\:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b78777883115f8169a9cd7b77e1172d6516b59fa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4cacf633d82d31fbd35aeec4c95c7a1c88fb26a3\\classes.dex
+base.1=E\:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4cacf633d82d31fbd35aeec4c95c7a1c88fb26a3
+file.0=E\:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b78777883115f8169a9cd7b77e1172d6516b59fa\\classes.dex

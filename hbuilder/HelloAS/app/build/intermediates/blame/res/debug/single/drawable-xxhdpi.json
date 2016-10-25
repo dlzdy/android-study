@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\splash.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\work_study\\hbuilder\\HelloAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\push.png",
+        "source": "E:\\work_study\\hbuilder\\HelloAS\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    }
+]
