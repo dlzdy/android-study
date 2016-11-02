@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jna-min">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sTMobileAPI/libs/jna-min.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
