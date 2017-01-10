@@ -1,9 +1,12 @@
 package com.umeng.example.analytics;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.os.Bundle;
+import android.view.KeyEvent;
+import android.view.View;
 
 import com.umeng.analytics.MobclickAgent;
 import com.umeng.analytics.MobclickAgent.EScenarioType;
@@ -12,14 +15,10 @@ import com.umeng.analytics.social.UMPlatformData.GENDER;
 import com.umeng.analytics.social.UMPlatformData.UMedia;
 import com.umeng.example.R;
 
-import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.Context;
-import android.content.DialogInterface;
-import android.content.Intent;
-import android.os.Bundle;
-import android.view.KeyEvent;
-import android.view.View;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class AnalyticsHome extends Activity {
     private Context mContext;
@@ -94,13 +93,13 @@ public class AnalyticsHome extends Activity {
             "123".substring(10);
             break;
         case R.id.umeng_example_analytics_js_analytic:
-            startActivity(new Intent(this, WebviewAnalytic.class));
+           // startActivity(new Intent(this, WebviewAnalytic.class));
             break;
         case R.id.umeng_example_analytics_fragment_stack:
-            startActivity(new Intent(this, FragmentStack.class));
+           // startActivity(new Intent(this, FragmentStack.class));
             break;
         case R.id.umeng_example_analytics_fragment_tabs:
-            startActivity(new Intent(this, FragmentTabs.class));
+           // startActivity(new Intent(this, FragmentTabs.class));
             break;
         case R.id.umeng_example_analytics_social:
 

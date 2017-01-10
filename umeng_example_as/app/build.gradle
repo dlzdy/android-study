@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 17
+    compileSdkVersion 19
     buildToolsVersion "24.0.0"
 
     defaultConfig {
         applicationId "com.umeng.example"
-        minSdkVersion 8
+        minSdkVersion 19
         targetSdkVersion 18
     }
 
@@ -19,8 +19,6 @@ android {
 }
 
 dependencies {
-    compile project(':umsdk_Android_v607')
-    compile 'com.android.support:support-v4:18.0.0'
     compile files('libs/umeng-analytics-v6.0.7.jar')
     compile files('libs/utdid4all-1.0.4.jar')
 }

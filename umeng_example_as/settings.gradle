@@ -1,2 +1,1 @@
-include ':umsdk_Android_v607'
-include ':umengdemogame'
+include ':app'

@@ -1,12 +1,16 @@
 package com.umeng.example;
 
-import com.umeng.example.analytics.AnalyticsHome;
-import com.umeng.example.game.GameAnalyticsHome;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.umeng.analytics.MobclickAgent;
+import com.umeng.example.analytics.AnalyticsHome;
+import com.umeng.example.game.GameAnalyticsHome;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class MainActivity extends Activity {
 
@@ -14,6 +18,8 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        MobclickAgent.setDebugMode(true);
+
     }
 
     public void onClick(View v) {
@@ -23,9 +29,15 @@ public class MainActivity extends Activity {
             in = new Intent(this, AnalyticsHome.class);
         } else if (id == R.id.game) {
             in = new Intent(this, GameAnalyticsHome.class);
+        } else if (id == R.id.btnTestEvent){
+            Map<String, String> map_ekv = new HashMap<String, String>();
+            map_ekv.put("did", System.currentTimeMillis() + "");
+            map_ekv.put("uid", "6591");
+            MobclickAgent.onEvent(this, "scan_qrcode_success555", map_ekv);
         }
-
-        startActivity(in);
+        if (in != null) {
+            startActivity(in);
+        }
     }
 
 }
