@@ -7,7 +7,6 @@ import android.view.View;
 
 import com.umeng.analytics.MobclickAgent;
 import com.umeng.example.analytics.AnalyticsHome;
-import com.umeng.example.game.GameAnalyticsHome;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -28,7 +27,7 @@ public class MainActivity extends Activity {
         if (id == R.id.normal) {
             in = new Intent(this, AnalyticsHome.class);
         } else if (id == R.id.game) {
-            in = new Intent(this, GameAnalyticsHome.class);
+
         } else if (id == R.id.btnTestEvent){
             Map<String, String> map_ekv = new HashMap<String, String>();
             map_ekv.put("did", System.currentTimeMillis() + "");
