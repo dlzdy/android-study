@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hljk365.umeng_test.MainActivity">
+
+    <Button
+        android:text="Startup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:id="@+id/btnStartup"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/btnScan"
+        android:layout_alignStart="@+id/btnScan" />
+
+    <Button
+        android:text="开始扫描"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnScan"
+        android:layout_below="@+id/btnStartup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp" />
+
+    <Button
+        android:text="扫描成功"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnScanSuccess"
+        android:layout_marginTop="39dp"
+        android:layout_below="@+id/btnScan"
+        android:layout_alignLeft="@+id/btnScan"
+        android:layout_alignStart="@+id/btnScan" />
+</RelativeLayout>
