@@ -1,0 +1,6 @@
+apply plugin: 'java'
+
+dependencies {
+    compile files('libs/umeng-analytics-v6.0.7.jar')
+    compile files('libs/utdid4all-1.0.4.jar')
+}

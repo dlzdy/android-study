@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/umeng_example_as.iml" filepath="$PROJECT_DIR$/umeng_example_as.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umengdemogame/umengdemogame.iml" filepath="$PROJECT_DIR$/umengdemogame/umengdemogame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umsdk_Android_v607/umsdk_Android_v607.iml" filepath="$PROJECT_DIR$/umsdk_Android_v607/umsdk_Android_v607.iml" />
+    </modules>
+  </component>
+</project>

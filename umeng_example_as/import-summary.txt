@@ -1,0 +1,155 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* doc\
+* doc\~$噯缁熻闆嗘垚鏂囨。.docx
+* doc\娓告垙闆嗘垚鏂囨。.docx
+* doc\鏍囧噯缁熻闆嗘垚鏂囨。.docx
+* example\
+* example\.classpath
+* example\.project
+* example\.settings\
+* example\.settings\org.eclipse.jdt.core.prefs
+* example\AndroidManifest.xml
+* example\assets\
+* example\assets\Umeng.js
+* example\assets\demo.html
+* example\bin\
+* example\bin\AndroidManifest.xml
+* example\bin\classes.dex
+* example\bin\classes\
+* example\bin\classes\.gitignore
+* example\bin\classes\com\
+* example\bin\classes\com\umeng\
+* example\bin\classes\com\umeng\example\
+* example\bin\classes\com\umeng\example\BuildConfig.class
+* example\bin\classes\com\umeng\example\MainActivity.class
+* example\bin\classes\com\umeng\example\R$attr.class
+* example\bin\classes\com\umeng\example\R$drawable.class
+* example\bin\classes\com\umeng\example\R$id.class
+* example\bin\classes\com\umeng\example\R$layout.class
+* example\bin\classes\com\umeng\example\R$string.class
+* example\bin\classes\com\umeng\example\R.class
+* example\bin\classes\com\umeng\example\analytics\
+* example\bin\classes\com\umeng\example\analytics\AnalyticsHome$1.class
+* example\bin\classes\com\umeng\example\analytics\AnalyticsHome$2.class
+* example\bin\classes\com\umeng\example\analytics\AnalyticsHome$3.class
+* example\bin\classes\com\umeng\example\analytics\AnalyticsHome.class
+* example\bin\classes\com\umeng\example\analytics\FragmentStack$1.class
+* example\bin\classes\com\umeng\example\analytics\FragmentStack$CountingFragment.class
+* example\bin\classes\com\umeng\example\analytics\FragmentStack.class
+* example\bin\classes\com\umeng\example\analytics\FragmentTabs$FragmentContacts.class
+* example\bin\classes\com\umeng\example\analytics\FragmentTabs$FragmentSimple.class
+* example\bin\classes\com\umeng\example\analytics\FragmentTabs.class
+* example\bin\classes\com\umeng\example\analytics\UMHybrid$Holder.class
+* example\bin\classes\com\umeng\example\analytics\UMHybrid.class
+* example\bin\classes\com\umeng\example\analytics\WebviewAnalytic$MyWebviewClient.class
+* example\bin\classes\com\umeng\example\analytics\WebviewAnalytic.class
+* example\bin\classes\com\umeng\example\game\
+* example\bin\classes\com\umeng\example\game\GameAnalyticsHome$1.class
+* example\bin\classes\com\umeng\example\game\GameAnalyticsHome$2.class
+* example\bin\classes\com\umeng\example\game\GameAnalyticsHome$3.class
+* example\bin\classes\com\umeng\example\game\GameAnalyticsHome$BonusTrigger.class
+* example\bin\classes\com\umeng\example\game\GameAnalyticsHome$PayChannels.class
+* example\bin\classes\com\umeng\example\game\GameAnalyticsHome.class
+* example\bin\dexedLibs\
+* example\bin\dexedLibs\android-support-v4-ae1c7d658f6b4daf62992e1ed987e2a2.jar
+* example\bin\dexedLibs\umeng-analytics-v6.0.7-303dbb1d37fd1b76467015d82236a5f4.jar
+* example\bin\dexedLibs\utdid4all-1.0.4-498299f4c3f016e995e1df9494e1f480.jar
+* example\bin\jarlist.cache
+* example\bin\proguard.txt
+* example\bin\res\
+* example\bin\res\crunch\
+* example\bin\res\crunch\drawable\
+* example\bin\res\crunch\drawable\icon.png
+* example\bin\resources.ap_
+* example\bin\umeng-demo-game.apk
+* example\gen\
+* example\gen\.gitignore
+* example\gen\com\
+* example\gen\com\umeng\
+* example\gen\com\umeng\example\
+* example\gen\com\umeng\example\BuildConfig.java
+* example\gen\com\umeng\example\R.java
+* example\libs\
+* example\libs\android-support-v4.jar
+* example\libs\umeng-analytics-v6.0.7.jar
+* example\libs\utdid4all-1.0.4.jar
+* example\project.properties
+* example\res\
+* example\res\drawable\
+* example\res\drawable\icon.png
+* example\res\layout\
+* example\res\layout\activity_main.xml
+* example\res\layout\umeng_example_analytics.xml
+* example\res\layout\umeng_example_analytics_fragment_stack.xml
+* example\res\layout\umeng_example_analytics_fragment_tabs.xml
+* example\res\layout\umeng_example_analytics_webview.xml
+* example\res\layout\umeng_example_game.xml
+* example\res\values-zh\
+* example\res\values-zh\strings.xml
+* example\res\values\
+* example\res\values\strings.xml
+* example\src\
+* example\src\com\
+* example\src\com\umeng\
+* example\src\com\umeng\example\
+* example\src\com\umeng\example\MainActivity.java
+* example\src\com\umeng\example\analytics\
+* example\src\com\umeng\example\analytics\AnalyticsHome.java
+* example\src\com\umeng\example\analytics\FragmentStack.java
+* example\src\com\umeng\example\analytics\FragmentTabs.java
+* example\src\com\umeng\example\analytics\UMHybrid.java
+* example\src\com\umeng\example\analytics\WebviewAnalytic.java
+* example\src\com\umeng\example\game\
+* example\src\com\umeng\example\game\GameAnalyticsHome.java
+* readme.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In umsdk_Android_v6.0.7:
+* libs\umeng-analytics-v6.0.7.jar => umsdk_Android_v607\libs\umeng-analytics-v6.0.7.jar
+* libs\utdid4all-1.0.4.jar => umsdk_Android_v607\libs\utdid4all-1.0.4.jar
+In umeng-demo-game:
+* AndroidManifest.xml => umengdemogame\src\main\AndroidManifest.xml
+* assets\ => umengdemogame\src\main\assets\
+* libs\umeng-analytics-v6.0.7.jar => umengdemogame\libs\umeng-analytics-v6.0.7.jar
+* libs\utdid4all-1.0.4.jar => umengdemogame\libs\utdid4all-1.0.4.jar
+* res\ => umengdemogame\src\main\res\
+* src\ => umengdemogame\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
