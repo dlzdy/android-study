@@ -1,37 +1,43 @@
 {
-	"index.html": {
-		"resources": [
-			"css/common.css",
-			"js/update.js",
-			"js/shortcut.js",
-			"js/immersed.js"
-		],
-		"refer": [
-			"plus/barcode.html"
-		]
-	},
-	"plus/barcode_scan2.html": {
-		"resources": [
-			"js/common.js",
-			"css/common.css"
-		]
-	},
-	"plus/barcode.html": {
-		"resources": [
-			"js/common.js",
-			"css/common.css",
-			"js/immersed.js",
-			"img/barcode.png"
-		],
-		"refer": [
-			"plus/barcode_scan2.html",
-			"plus/barcode_scan.html"
-		]
-	},
-	"plus/barcode_scan.html": {
-		"resources": [
-			"js/common.js",
-			"css/common.css"
-		]
-	}
+  "index.html": {
+    "resources": [
+      "css/common.css",
+      "js/update.js",
+      "js/shortcut.js",
+      "js/immersed.js"
+    ],
+    "refer": [
+      "plus/barcode.html",
+      "plus/nativeui.html"
+    ]
+  },
+  "plus/barcode_scan2.html": {
+    "resources": [
+      "js/common.js",
+      "css/common.css"
+    ]
+  },
+  "plus/barcode.html": {
+    "resources": [
+      "js/common.js",
+      "css/common.css",
+      "js/immersed.js",
+      "img/barcode.png"
+    ],
+    "refer": [
+      "plus/barcode_scan2.html",
+      "plus/barcode_scan.html"
+    ]
+  },
+  "plus/barcode_scan.html": {
+    "resources": [
+      "js/common.js",
+      "css/common.css"
+    ]
+  },
+  "plus/nativeui.html": {
+    "resources": [
+      "js/common.js"
+    ]
+  }
 }
