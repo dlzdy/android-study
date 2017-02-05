@@ -1,0 +1,10 @@
+<hbuilder version="1.9.9.26346">
+    <apps>
+        <!--
+        <app appid="doctorhd" appver="1.0.0" />
+        <app appid="HBuilder" appver="1.0.0" />
+        -->
+        <app appid="h5plus" appver="1.0.0" />
+
+    </apps>
+</hbuilder>
