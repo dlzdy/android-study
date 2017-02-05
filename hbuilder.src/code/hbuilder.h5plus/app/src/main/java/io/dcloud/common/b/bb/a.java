@@ -3,7 +3,7 @@
 // (powered by Fernflower decompiler)
 //
 
-package io.dcloud.common.bb.bb;
+package io.dcloud.common.b.bb;
 
 import android.graphics.Rect;
 import android.view.View;
