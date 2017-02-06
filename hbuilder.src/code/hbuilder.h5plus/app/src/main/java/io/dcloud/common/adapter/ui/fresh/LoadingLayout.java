@@ -36,7 +36,7 @@ public abstract class LoadingLayout extends FrameLayout implements ILoadingLayou
     }
 
     public void show(boolean var1) {
-        if(var1 != ( 0 == this.getVisibility())) {//0
+        if(var1 != ( VISIBLE == this.getVisibility())) {//0
             ViewGroup.LayoutParams var2 = this.mContainer.getLayoutParams();
             if(null != var2) {
                 if(var1) {
@@ -45,7 +45,7 @@ public abstract class LoadingLayout extends FrameLayout implements ILoadingLayou
                     var2.height = 0;
                 }
 
-                this.setVisibility(var1 ? 0: 4);
+                this.setVisibility(var1 ? VISIBLE: INVISIBLE);
             }
 
         }
@@ -86,21 +86,21 @@ public abstract class LoadingLayout extends FrameLayout implements ILoadingLayou
         return this.mPreState;
     }
 
-    protected void onStateChanged(State var1, State var2) {
-        switch(LoadingLayout.SyntheticClass_1.$SwitchMap$io$dcloud$common$adapter$ui$fresh$ILoadingLayout$State[var1.ordinal()]) {
-            case 1:
+    protected void onStateChanged(ILoadingLayout.State var1, ILoadingLayout.State var2) {
+        switch(var1) {
+            case RESET:
                 this.onReset();
                 break;
-            case 2:
+            case RELEASE_TO_REFRESH:
                 this.onReleaseToRefresh();
                 break;
-            case 3:
+            case PULL_TO_REFRESH:
                 this.onPullToRefresh();
                 break;
-            case 4:
+            case REFRESHING:
                 this.onRefreshing();
                 break;
-            case 5:
+            case NO_MORE_DATA:
                 this.onNoMoreData();
         }
 

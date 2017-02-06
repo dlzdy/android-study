@@ -6,9 +6,7 @@
 package io.dcloud.common.adapter.ui.fresh;
 
 import android.content.Context;
-import android.util.FloatMath;
 import android.webkit.WebView;
-import io.dcloud.common.adapter.ui.fresh.PullToRefreshBase;
 
 public class PullToRefreshWebView extends PullToRefreshBase<WebView> {
     public PullToRefreshWebView(Context var1) {
@@ -20,9 +18,13 @@ public class PullToRefreshWebView extends PullToRefreshBase<WebView> {
     }
 
     protected boolean isReadyForPullUp() {
-        float var1 = FloatMath.floor((float)((WebView)this.mRefreshableView).getContentHeight() * ((WebView)this.mRefreshableView).getScale());
-        return (float)((WebView)this.mRefreshableView).getScrollY() >= var1 - (float)((WebView)this.mRefreshableView).getHeight();
+        double exactContentHeight = Math.floor((float)((WebView)this.mRefreshableView).getContentHeight() * ((WebView)this.mRefreshableView).getScale());
+        return mRefreshableView.getScrollY() >= (exactContentHeight - mRefreshableView.getHeight());
     }
+//    protected boolean isReadyForPullEnd() {
+//        float exactContentHeight = FloatMath.floor(mRefreshableView.getContentHeight() * mRefreshableView.getScale());
+//        return mRefreshableView.getScrollY() >= (exactContentHeight - mRefreshableView.getHeight());
+//    }
 
     protected void onScrollChanged(int var1, int var2, int var3, int var4) {
         super.onScrollChanged(var1, var2, var3, var4);

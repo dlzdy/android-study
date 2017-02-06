@@ -20,12 +20,7 @@ public interface ILoadingLayout {
         PULL_TO_REFRESH,
         RELEASE_TO_REFRESH,
         REFRESHING,
-        /** @deprecated */
-        @Deprecated
         LOADING,
         NO_MORE_DATA;
-
-        private State() {
-        }
     }
 }

@@ -14,10 +14,7 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
-import android.widget.LinearLayout.LayoutParams;
-import io.dcloud.common.adapter.ui.fresh.HeaderLoadingLayout;
-import io.dcloud.common.adapter.ui.fresh.IPullToRefresh;
-import io.dcloud.common.adapter.ui.fresh.LoadingLayout;
+
 import io.dcloud.common.adapter.ui.fresh.ILoadingLayout.State;
 import io.dcloud.common.adapter.util.Logger;
 import io.dcloud.common.util.BaseInfo;
@@ -65,7 +62,7 @@ public abstract class PullToRefreshBase<T extends View> extends LinearLayout imp
     }
 
     public void init(Context var1) {
-        this.setOrientation(1);
+        this.setOrientation(VERTICAL);//1
         this.mTouchSlop = ViewConfiguration.get(var1).getScaledTouchSlop();
         this.mHeaderLayout = this.createHeaderLoadingLayout(var1);
         this.mFooterLayout = this.createFooterLoadingLayout(var1);
@@ -128,7 +125,7 @@ public abstract class PullToRefreshBase<T extends View> extends LinearLayout imp
     }
 
     public void setOrientation(int var1) {
-        if(1 != var1) {
+        if(VERTICAL != var1) {//1
             throw new IllegalArgumentException("This class only supports VERTICAL orientation.");
         } else {
             super.setOrientation(var1);
@@ -373,7 +370,7 @@ public abstract class PullToRefreshBase<T extends View> extends LinearLayout imp
                 int var1x = -PullToRefreshBase.this.mHeaderHeight;
                 int var2 = var1?150:0;
                 PullToRefreshBase.this.startRefreshing();
-                PullToRefreshBase.access$300(PullToRefreshBase.this, var1x, (long)var2, 0L);
+                PullToRefreshBase.this.smoothScrollTo(var1x, var2, 0L);
             }
         }, var2);
     }
